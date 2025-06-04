@@ -1,1 +1,5 @@
-/* css styles */
+/* General text alignment */
+p{
+  text-align: justify;
+}
+
