@@ -6,8 +6,7 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Tutorial
 
 format:
   html:
